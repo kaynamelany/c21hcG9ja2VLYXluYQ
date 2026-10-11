@@ -1,0 +1,68 @@
+c[36m====================================================[0m
+[36m   ___  ____  _   _ ___   _        _    ____  ____   [0m
+[36m  / _ \/ ___|| | | |_ _| | |      / \  | __ )| ___|  [0m
+[36m | | | \___ \| |_| || |  | |     / _ \ |  _ \|___ \  [0m
+[36m | |_| |___) |  _  || |  | |___ / ___ \| |_) |___) | [0m
+[36m  \___/|____/|_| |_|___| |_____/_/   \_\____/|____/  [0m
+[36m====================================================[0m
+
+delay/task: 10s | limit: semua
+akun source: /home/runner/work/c21hcG9ja2VLYXluYQ/c21hcG9ja2VLYXluYQ/account.json | jumlah: 1
+mode AUTO: akun=1 menu=Claim Daily, Auto All Tasks, Verify Single Task, Watch Anime, Read Article, Quiz Anime, Music Missions, Claim Missions, Check Eligibility, Read Manga, Get Gift, Setup Profile, Bind Wallet SEQUENSIAL
+
+
+===== [1/1] Kayna =====
+[1]Kayna       |06:53:04 | 11-10-2026| login OK @kaynemelany | score=1000 rank=5812
+[1]Kayna       |06:53:04 | 11-10-2026| serverTime=2026-10-11T06:53:04.000Z local=2026-10-11T06:53:04.844Z
+--> [1]Kayna menjalankan: Claim Daily
+[1]Kayna       |06:53:05 | 11-10-2026| daily: sudah klaim (already=true) score=1000
+--> [1]Kayna menjalankan: Auto All Tasks (0 pending)
+[1]Kayna       |06:53:05 | 11-10-2026| mode auto: verify 0 task pertama (pakai --limit N untuk atur, atau jalan interaktif untuk pilih).
+--> [1]Kayna menjalankan: Watch Anime
+[1]Kayna       |06:53:07 | 11-10-2026| watch: semua video sudah completed
+--> [1]Kayna menjalankan: Read Article
+[1]Kayna       |06:53:08 | 11-10-2026| news: 24/24 artikel selesai dibaca
+[1]Kayna       |06:53:09 | 11-10-2026| mint eligibility: {"userId":"1710987449961443328","youtube":{"url":"","status":"unsubmitted","revision":"","submittedAt":null,"reviewedAt":null,"note":"","checkedAt":null,"automaticReady":true,"attemptedAt":null,"chann
+[1]Kayna       |06:53:09 | 11-10-2026| news: semua artikel sudah dibaca
+--> [1]Kayna menjalankan: Quiz Anime
+[1]Kayna       |06:53:09 | 11-10-2026| quiz ep1: sudah dijawab
+[1]Kayna       |06:53:09 | 11-10-2026| quiz ep2: sudah dijawab
+[1]Kayna       |06:53:09 | 11-10-2026| quiz ep3: sudah dijawab
+[1]Kayna       |06:53:09 | 11-10-2026| quiz ep4: sudah dijawab
+[1]Kayna       |06:53:09 | 11-10-2026| quiz ep5: sudah dijawab
+[1]Kayna       |06:53:09 | 11-10-2026| quiz ep6: sudah dijawab
+--> [1]Kayna menjalankan: Music Missions (realtime, bisa lama!)
+[1]Kayna       |06:53:11 | 11-10-2026| music: kedua misi sudah tercapai, stop
+[1]Kayna       |06:53:13 | 11-10-2026| mission music-listens-10: sudah diklaim
+[1]Kayna       |06:53:13 | 11-10-2026| mission music-minutes-30: sudah diklaim
+[1]Kayna       |06:53:13 | 11-10-2026| mission anime-completed-3: sudah diklaim
+--> [1]Kayna menjalankan: Claim Missions
+[1]Kayna       |06:53:15 | 11-10-2026| mission music-listens-10: sudah diklaim
+[1]Kayna       |06:53:15 | 11-10-2026| mission music-minutes-30: sudah diklaim
+[1]Kayna       |06:53:15 | 11-10-2026| mission anime-completed-3: sudah diklaim
+--> [1]Kayna menjalankan: Check Eligibility
+
+--- eligibility [1]Kayna ---
+  @kaynemelany | score=1000 rank=5812
+  tasks    [####################] 77/77
+  mission  music-listens-10:      claimed
+  mission  music-minutes-30:      claimed
+  mission  anime-completed-3:     claimed
+  quiz     [####################] 6/6
+  watch    [####################] 18/17
+  music    [####################] 11/11
+  artikel  [####################] 24/24
+  mint: requirementsMet=false mintOpen=false discord=true
+
+--> [1]Kayna menjalankan: Read Manga
+[1]Kayna       |06:53:21 | 11-10-2026| manga: 0/13 chapter belum completed
+--> [1]Kayna menjalankan: Get Gift
+[1]Kayna       |06:53:24 | 11-10-2026| gift: 0/3 belum diterima
+--> [1]Kayna menjalankan: Setup Profile
+[1]Kayna       |06:53:24 | 11-10-2026| profile: bio="https://x.com/kaynemelany" fav=yuki rewardAt=1791685763
+[1]Kayna       |06:53:24 | 11-10-2026| profile: bonus sudah diklaim, skip
+--> [1]Kayna menjalankan: Bind Wallet
+[1]Kayna       |06:53:25 | 11-10-2026| wallet: sudah terikat GbMeCxvcxf... (solana)
+
+== RINGKASAN ==
+- Kayna: daily=already | tasks OK 0/0 | misi klaim 0 (+0pt) | kuis benar 6 (+0pt) | watch 0/0 completed | musik 0 trek ~0s | artikel 0 dibaca | manga 0/13 completed | gift 0/3 diterima | profile - | wallet bound | mint req=false open=false
