@@ -12,145 +12,86 @@ mode AUTO: akun=1 menu=Claim Daily, Auto All Tasks, Verify Single Task, Watch An
 
 
 ===== [1/1] Kayna =====
-[1]Kayna       |09:46:28 | 20-10-2026| login OK @kaynemelany | score=1560 rank=4494
-[1]Kayna       |09:46:28 | 20-10-2026| serverTime=2026-10-20T09:46:28.000Z local=2026-10-20T09:46:28.998Z
+[1]Kayna       |08:11:29 | 21-10-2026| login OK @kaynemelany | score=1630 rank=4305
+[1]Kayna       |08:11:29 | 21-10-2026| serverTime=2026-10-21T08:11:29.000Z local=2026-10-21T08:11:29.600Z
 --> [1]Kayna menjalankan: Claim Daily
-[1]Kayna       |09:46:30 | 20-10-2026| daily: OK +10 poin score=1570
+[1]Kayna       |08:11:30 | 21-10-2026| daily: OK +10 poin score=1640
 --> [1]Kayna menjalankan: Auto All Tasks (6 pending)
-[1]Kayna       |09:46:32 | 20-10-2026| [1/6] f8ede5f6 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"f8ede5f6-e089-406b-b2f5-a1a2aa98d349","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211220094967479 | proof=https://x.com/kaynemelany/status/2112480301111379806
-[1]Kayna       |09:46:32 | 20-10-2026| delay 10s...
-[1]Kayna       |09:46:44 | 20-10-2026| [2/6] 6e765bbf (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"f8ede5f6-e089-406b-b2f5-a1a2aa98d349","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211220094967479 | proof=https://x.com/kaynemelany/status/2112480055545083876
-[1]Kayna       |09:46:44 | 20-10-2026| delay 10s...
-[1]Kayna       |09:46:58 | 20-10-2026| [3/6] ecdd3dc8 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"f8ede5f6-e089-406b-b2f5-a1a2aa98d349","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211220094967479 | proof=https://x.com/kaynemelany/status/2112480072434988706
-[1]Kayna       |09:46:58 | 20-10-2026| delay 10s...
-[1]Kayna       |09:47:11 | 20-10-2026| [4/6] f533191c (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"f8ede5f6-e089-406b-b2f5-a1a2aa98d349","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211220094967479 | proof=https://x.com/kaynemelany/status/2112480405584788626
-[1]Kayna       |09:47:11 | 20-10-2026| delay 10s...
-[1]Kayna       |09:47:24 | 20-10-2026| [5/6] 8ff68dcd (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"f8ede5f6-e089-406b-b2f5-a1a2aa98d349","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211220094967479 | proof=https://x.com/kaynemelany/status/2112480340591769106
-[1]Kayna       |09:47:24 | 20-10-2026| delay 10s...
-[1]Kayna       |09:47:36 | 20-10-2026| [6/6] 57f13195 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"f8ede5f6-e089-406b-b2f5-a1a2aa98d349","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211220094967479 | proof=https://x.com/kaynemelany/status/2112480337297116533
-[1]Kayna       |09:47:36 | 20-10-2026| mode auto: verify 1 task pertama (pakai --limit N untuk atur, atau jalan interaktif untuk pilih).
-[1]Kayna       |09:47:38 | 20-10-2026| [1/1] f8ede5f6 (reply) verify OK http=200 resp={"ok":true,"already":true,"points":10,"taskState":{"tasks":[{"id":"f8ede5f6-e089-406b-b2f5-a1a2aa98d349","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"2112200949674791 | proof=https://x.com/kaynemelany/status/2112480283391793587
+[1]Kayna       |08:11:33 | 21-10-2026| [1/6] 3ce7cf77 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"3ce7cf77-cd3a-40d4-a2ae-eee75a10472d","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211275255741227 | proof=https://x.com/kaynemelany/status/2112818566920955976
+[1]Kayna       |08:11:33 | 21-10-2026| delay 10s...
+[1]Kayna       |08:11:46 | 21-10-2026| [2/6] 67a9776a (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"3ce7cf77-cd3a-40d4-a2ae-eee75a10472d","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211275255741227 | proof=https://x.com/kaynemelany/status/2112818573722196813
+[1]Kayna       |08:11:46 | 21-10-2026| delay 10s...
+[1]Kayna       |08:11:59 | 21-10-2026| [3/6] e90ce04d (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"3ce7cf77-cd3a-40d4-a2ae-eee75a10472d","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211275255741227 | proof=https://x.com/kaynemelany/status/2112818845987537556
+[1]Kayna       |08:11:59 | 21-10-2026| delay 10s...
+[1]Kayna       |08:12:12 | 21-10-2026| [4/6] 06ee5b2a (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"3ce7cf77-cd3a-40d4-a2ae-eee75a10472d","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211275255741227 | proof=https://x.com/kaynemelany/status/2112818610981534218
+[1]Kayna       |08:12:12 | 21-10-2026| delay 10s...
+[1]Kayna       |08:12:25 | 21-10-2026| [5/6] 6e666982 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"3ce7cf77-cd3a-40d4-a2ae-eee75a10472d","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211275255741227 | proof=https://x.com/kaynemelany/status/2112818751403761325
+[1]Kayna       |08:12:25 | 21-10-2026| delay 10s...
+[1]Kayna       |08:12:38 | 21-10-2026| [6/6] bd8c2f19 (link) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"3ce7cf77-cd3a-40d4-a2ae-eee75a10472d","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211275255741227
+[1]Kayna       |08:12:38 | 21-10-2026| mode auto: verify 1 task pertama (pakai --limit N untuk atur, atau jalan interaktif untuk pilih).
+[1]Kayna       |08:12:40 | 21-10-2026| [1/1] 3ce7cf77 (reply) verify OK http=200 resp={"ok":true,"already":true,"points":10,"taskState":{"tasks":[{"id":"3ce7cf77-cd3a-40d4-a2ae-eee75a10472d","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"2112752557412274 | proof=https://x.com/kaynemelany/status/2112818967398881716
 --> [1]Kayna menjalankan: Watch Anime
-[1]Kayna       |09:47:38 | 20-10-2026| watch: 4 video belum completed: oshi-captains-hat,oshi-rainbow-star,oshi-rainbow-lighthouse,bakeru-ikesou-jan-mv
-[1]Kayna       |09:47:38 | 20-10-2026| watch [1/4] farming oshi-captains-hat...
-[1]Kayna       |09:47:40 | 20-10-2026| watch oshi-captains-hat: 0% (0.00/92.00s)
-[1]Kayna       |09:47:47 | 20-10-2026| watch oshi-captains-hat: 6% (5.54/92.00s)
-[1]Kayna       |09:47:54 | 20-10-2026| watch oshi-captains-hat: 12% (11.58/92.00s)
-[1]Kayna       |09:48:00 | 20-10-2026| watch oshi-captains-hat: 19% (17.53/92.00s)
-[1]Kayna       |09:48:06 | 20-10-2026| watch oshi-captains-hat: 25% (23.05/92.00s)
-[1]Kayna       |09:48:13 | 20-10-2026| watch oshi-captains-hat: 31% (28.65/92.00s)
-[1]Kayna       |09:48:20 | 20-10-2026| watch oshi-captains-hat: 38% (35.14/92.00s)
-[1]Kayna       |09:48:26 | 20-10-2026| watch oshi-captains-hat: 44% (40.86/92.00s)
-[1]Kayna       |09:48:32 | 20-10-2026| watch oshi-captains-hat: 50% (46.42/92.00s)
-[1]Kayna       |09:48:39 | 20-10-2026| watch oshi-captains-hat: 56% (52.24/92.00s)
-[1]Kayna       |09:48:46 | 20-10-2026| watch oshi-captains-hat: 62% (57.91/92.00s)
-[1]Kayna       |09:48:52 | 20-10-2026| watch oshi-captains-hat: 69% (64.25/92.00s)
-[1]Kayna       |09:48:59 | 20-10-2026| watch oshi-captains-hat: 76% (70.22/92.00s)
-[1]Kayna       |09:49:05 | 20-10-2026| watch oshi-captains-hat: 82% (76.09/92.00s)
-[1]Kayna       |09:49:11 | 20-10-2026| watch oshi-captains-hat: 88% (81.78/92.00s)
-[1]Kayna       |09:49:18 | 20-10-2026| watch oshi-captains-hat: 94% (87.35/92.00s)
-[1]Kayna       |09:49:18 | 20-10-2026| watch oshi-captains-hat: COMPLETED (87.35/92.00s)
-[1]Kayna       |09:49:23 | 20-10-2026| watch [2/4] farming oshi-rainbow-star...
-[1]Kayna       |09:49:24 | 20-10-2026| watch oshi-rainbow-star: 0% (0.00/86.00s)
-[1]Kayna       |09:49:31 | 20-10-2026| watch oshi-rainbow-star: 6% (5.22/86.00s)
-[1]Kayna       |09:49:37 | 20-10-2026| watch oshi-rainbow-star: 12% (10.76/86.00s)
-[1]Kayna       |09:49:43 | 20-10-2026| watch oshi-rainbow-star: 18% (16.32/86.00s)
-[1]Kayna       |09:49:49 | 20-10-2026| watch oshi-rainbow-star: 25% (21.97/86.00s)
-[1]Kayna       |09:49:56 | 20-10-2026| watch oshi-rainbow-star: 31% (27.51/86.00s)
-[1]Kayna       |09:50:02 | 20-10-2026| watch oshi-rainbow-star: 38% (33.45/86.00s)
-[1]Kayna       |09:50:09 | 20-10-2026| watch oshi-rainbow-star: 45% (39.41/86.00s)
-[1]Kayna       |09:50:31 | 20-10-2026| watch oshi-rainbow-star: heartbeat GAGAL http=503
-[1]Kayna       |09:50:36 | 20-10-2026| watch [3/4] farming oshi-rainbow-lighthouse...
-[1]Kayna       |09:50:38 | 20-10-2026| watch oshi-rainbow-lighthouse: 0% (0.00/87.00s)
-[1]Kayna       |09:50:45 | 20-10-2026| watch oshi-rainbow-lighthouse: 6% (5.28/87.00s)
-[1]Kayna       |09:50:51 | 20-10-2026| watch oshi-rainbow-lighthouse: 12% (11.09/87.00s)
-[1]Kayna       |09:51:00 | 20-10-2026| watch oshi-rainbow-lighthouse: 19% (16.72/87.00s)
-[1]Kayna       |09:51:06 | 20-10-2026| watch oshi-rainbow-lighthouse: 26% (23.03/87.00s)
-[1]Kayna       |09:51:13 | 20-10-2026| watch oshi-rainbow-lighthouse: 34% (29.89/87.00s)
-[1]Kayna       |09:51:19 | 20-10-2026| watch oshi-rainbow-lighthouse: 41% (36.22/87.00s)
-[1]Kayna       |09:51:25 | 20-10-2026| watch oshi-rainbow-lighthouse: 48% (42.08/87.00s)
-[1]Kayna       |09:51:32 | 20-10-2026| watch oshi-rainbow-lighthouse: 54% (47.63/87.00s)
-[1]Kayna       |09:51:38 | 20-10-2026| watch oshi-rainbow-lighthouse: 61% (53.65/87.00s)
-[1]Kayna       |09:51:45 | 20-10-2026| watch oshi-rainbow-lighthouse: 68% (59.54/87.00s)
-[1]Kayna       |09:51:51 | 20-10-2026| watch oshi-rainbow-lighthouse: 74% (65.17/87.00s)
-[1]Kayna       |09:51:58 | 20-10-2026| watch oshi-rainbow-lighthouse: 81% (70.68/87.00s)
-[1]Kayna       |09:52:04 | 20-10-2026| watch oshi-rainbow-lighthouse: 88% (76.91/87.00s)
-[1]Kayna       |09:52:11 | 20-10-2026| watch oshi-rainbow-lighthouse: 95% (82.70/87.00s)
-[1]Kayna       |09:52:11 | 20-10-2026| watch oshi-rainbow-lighthouse: COMPLETED (82.70/87.00s)
-[1]Kayna       |09:52:16 | 20-10-2026| watch [4/4] farming bakeru-ikesou-jan-mv...
-[1]Kayna       |09:52:18 | 20-10-2026| watch bakeru-ikesou-jan-mv: 0% (0.00/181.00s)
-[1]Kayna       |09:52:24 | 20-10-2026| watch bakeru-ikesou-jan-mv: 2% (5.26/181.00s)
-[1]Kayna       |09:52:31 | 20-10-2026| watch bakeru-ikesou-jan-mv: 5% (10.82/181.00s)
-[1]Kayna       |09:52:37 | 20-10-2026| watch bakeru-ikesou-jan-mv: 9% (16.40/181.00s)
-[1]Kayna       |09:52:43 | 20-10-2026| watch bakeru-ikesou-jan-mv: 12% (21.93/181.00s)
-[1]Kayna       |09:52:50 | 20-10-2026| watch bakeru-ikesou-jan-mv: 15% (27.81/181.00s)
-[1]Kayna       |09:52:56 | 20-10-2026| watch bakeru-ikesou-jan-mv: 18% (33.43/181.00s)
-[1]Kayna       |09:53:03 | 20-10-2026| watch bakeru-ikesou-jan-mv: 21% (39.14/181.00s)
-[1]Kayna       |09:53:10 | 20-10-2026| watch bakeru-ikesou-jan-mv: 25% (45.62/181.00s)
-[1]Kayna       |09:53:16 | 20-10-2026| watch bakeru-ikesou-jan-mv: 28% (51.64/181.00s)
-[1]Kayna       |09:53:22 | 20-10-2026| watch bakeru-ikesou-jan-mv: 31% (57.17/181.00s)
-[1]Kayna       |09:53:29 | 20-10-2026| watch bakeru-ikesou-jan-mv: 34% (62.99/181.00s)
-[1]Kayna       |09:53:35 | 20-10-2026| watch bakeru-ikesou-jan-mv: 37% (68.56/181.00s)
-[1]Kayna       |09:53:41 | 20-10-2026| watch bakeru-ikesou-jan-mv: 41% (74.39/181.00s)
-[1]Kayna       |09:53:48 | 20-10-2026| watch bakeru-ikesou-jan-mv: 44% (79.93/181.00s)
-[1]Kayna       |09:53:54 | 20-10-2026| watch bakeru-ikesou-jan-mv: 47% (85.62/181.00s)
-[1]Kayna       |09:54:00 | 20-10-2026| watch bakeru-ikesou-jan-mv: 50% (91.19/181.00s)
-[1]Kayna       |09:54:06 | 20-10-2026| watch bakeru-ikesou-jan-mv: 53% (96.80/181.00s)
-[1]Kayna       |09:54:13 | 20-10-2026| watch bakeru-ikesou-jan-mv: 56% (102.62/181.00s)
-[1]Kayna       |09:54:20 | 20-10-2026| watch bakeru-ikesou-jan-mv: 59% (108.23/181.00s)
-[1]Kayna       |09:54:26 | 20-10-2026| watch bakeru-ikesou-jan-mv: 63% (114.55/181.00s)
-[1]Kayna       |09:54:33 | 20-10-2026| watch bakeru-ikesou-jan-mv: 66% (120.37/181.00s)
-[1]Kayna       |09:54:39 | 20-10-2026| watch bakeru-ikesou-jan-mv: 69% (126.35/181.00s)
-[1]Kayna       |09:54:45 | 20-10-2026| watch bakeru-ikesou-jan-mv: 72% (132.02/181.00s)
-[1]Kayna       |09:54:52 | 20-10-2026| watch bakeru-ikesou-jan-mv: 76% (137.59/181.00s)
-[1]Kayna       |09:54:58 | 20-10-2026| watch bakeru-ikesou-jan-mv: 79% (143.46/181.00s)
-[1]Kayna       |09:55:05 | 20-10-2026| watch bakeru-ikesou-jan-mv: 82% (149.35/181.00s)
-[1]Kayna       |09:55:17 | 20-10-2026| watch bakeru-ikesou-jan-mv: 85% (155.53/181.00s)
-[1]Kayna       |09:55:33 | 20-10-2026| watch bakeru-ikesou-jan-mv: 91% (165.67/181.00s)
-[1]Kayna       |09:55:33 | 20-10-2026| watch bakeru-ikesou-jan-mv: COMPLETED (165.67/181.00s)
+[1]Kayna       |08:12:41 | 21-10-2026| watch: 1 video belum completed: oshi-rainbow-star
+[1]Kayna       |08:12:41 | 21-10-2026| watch [1/1] farming oshi-rainbow-star...
+[1]Kayna       |08:12:42 | 21-10-2026| watch oshi-rainbow-star: mulai dari 0 (record 39.4s diabaikan)
+[1]Kayna       |08:12:43 | 21-10-2026| watch oshi-rainbow-star: 45% (39.41/86.00s)
+[1]Kayna       |08:12:49 | 21-10-2026| watch oshi-rainbow-star: 45% (39.41/86.00s)
+[1]Kayna       |08:12:57 | 21-10-2026| watch oshi-rainbow-star: 45% (39.41/86.00s)
+[1]Kayna       |08:13:03 | 21-10-2026| watch oshi-rainbow-star: 45% (39.41/86.00s)
+[1]Kayna       |08:13:10 | 21-10-2026| watch oshi-rainbow-star: 45% (39.41/86.00s)
+[1]Kayna       |08:13:16 | 21-10-2026| watch oshi-rainbow-star: 45% (39.41/86.00s)
+[1]Kayna       |08:13:23 | 21-10-2026| watch oshi-rainbow-star: 45% (39.41/86.00s)
+[1]Kayna       |08:13:29 | 21-10-2026| watch oshi-rainbow-star: 48% (41.31/86.00s)
+[1]Kayna       |08:13:36 | 21-10-2026| watch oshi-rainbow-star: 54% (46.95/86.00s)
+[1]Kayna       |08:13:43 | 21-10-2026| watch oshi-rainbow-star: 61% (52.83/86.00s)
+[1]Kayna       |08:13:50 | 21-10-2026| watch oshi-rainbow-star: 69% (59.41/86.00s)
+[1]Kayna       |08:13:57 | 21-10-2026| watch oshi-rainbow-star: 76% (65.65/86.00s)
+[1]Kayna       |08:14:03 | 21-10-2026| watch oshi-rainbow-star: 83% (71.72/86.00s)
+[1]Kayna       |08:14:09 | 21-10-2026| watch oshi-rainbow-star: 90% (77.43/86.00s)
+[1]Kayna       |08:14:09 | 21-10-2026| watch oshi-rainbow-star: COMPLETED (77.43/86.00s)
 --> [1]Kayna menjalankan: Read Article
-[1]Kayna       |09:55:34 | 20-10-2026| news: 27/27 artikel selesai dibaca
-[1]Kayna       |09:55:35 | 20-10-2026| mint eligibility: {"userId":"1710987449961443328","wallet":{"state":"registered","ready":true},"youtube":{"url":"","status":"unsubmitted","revision":"","submittedAt":null,"reviewedAt":null,"note":"","checkedAt":null,"a
-[1]Kayna       |09:55:35 | 20-10-2026| news: semua artikel sudah dibaca
+[1]Kayna       |08:14:12 | 21-10-2026| news: 27/27 artikel selesai dibaca
+[1]Kayna       |08:14:13 | 21-10-2026| mint eligibility: {"userId":"1710987449961443328","wallet":{"state":"registered","ready":true},"youtube":{"url":"","status":"unsubmitted","revision":"","submittedAt":null,"reviewedAt":null,"note":"","checkedAt":null,"a
+[1]Kayna       |08:14:22 | 21-10-2026| news oshi-nft-price-and-basic-income-01: complete GAGAL http=404 resp={"error":"記事が見つかりません。"}
 --> [1]Kayna menjalankan: Quiz Anime
-[1]Kayna       |09:55:35 | 20-10-2026| quiz ep1: sudah dijawab
-[1]Kayna       |09:55:35 | 20-10-2026| quiz ep2: sudah dijawab
-[1]Kayna       |09:55:35 | 20-10-2026| quiz ep3: sudah dijawab
-[1]Kayna       |09:55:35 | 20-10-2026| quiz ep4: sudah dijawab
-[1]Kayna       |09:55:35 | 20-10-2026| quiz ep5: sudah dijawab
-[1]Kayna       |09:55:35 | 20-10-2026| quiz ep6: sudah dijawab
+[1]Kayna       |08:14:24 | 21-10-2026| quiz ep1: sudah dijawab
+[1]Kayna       |08:14:24 | 21-10-2026| quiz ep2: sudah dijawab
+[1]Kayna       |08:14:24 | 21-10-2026| quiz ep3: sudah dijawab
+[1]Kayna       |08:14:24 | 21-10-2026| quiz ep4: sudah dijawab
+[1]Kayna       |08:14:24 | 21-10-2026| quiz ep5: sudah dijawab
+[1]Kayna       |08:14:24 | 21-10-2026| quiz ep6: sudah dijawab
 --> [1]Kayna menjalankan: Music Missions (realtime, bisa lama!)
-[1]Kayna       |09:55:38 | 20-10-2026| music: kedua misi sudah tercapai, stop
-[1]Kayna       |09:55:38 | 20-10-2026| mission music-listens-10: sudah diklaim
-[1]Kayna       |09:55:38 | 20-10-2026| mission music-minutes-30: sudah diklaim
-[1]Kayna       |09:55:38 | 20-10-2026| mission anime-completed-3: sudah diklaim
+[1]Kayna       |08:14:27 | 21-10-2026| music: kedua misi sudah tercapai, stop
+[1]Kayna       |08:14:27 | 21-10-2026| mission music-listens-10: sudah diklaim
+[1]Kayna       |08:14:27 | 21-10-2026| mission music-minutes-30: sudah diklaim
+[1]Kayna       |08:14:27 | 21-10-2026| mission anime-completed-3: sudah diklaim
 --> [1]Kayna menjalankan: Claim Missions
-[1]Kayna       |09:55:39 | 20-10-2026| mission music-listens-10: sudah diklaim
-[1]Kayna       |09:55:39 | 20-10-2026| mission music-minutes-30: sudah diklaim
-[1]Kayna       |09:55:39 | 20-10-2026| mission anime-completed-3: sudah diklaim
+[1]Kayna       |08:14:28 | 21-10-2026| mission music-listens-10: sudah diklaim
+[1]Kayna       |08:14:28 | 21-10-2026| mission music-minutes-30: sudah diklaim
+[1]Kayna       |08:14:28 | 21-10-2026| mission anime-completed-3: sudah diklaim
 --> [1]Kayna menjalankan: Check Eligibility
 
 --- eligibility [1]Kayna ---
-  @kaynemelany | score=1560 rank=4494
-  tasks    [##################--] 73/79
+  @kaynemelany | score=1630 rank=4305
+  tasks    [###################-] 74/80
   mission  music-listens-10:      claimed
   mission  music-minutes-30:      claimed
   mission  anime-completed-3:     claimed
   quiz     [####################] 6/6
-  watch    [####################] 21/17
+  watch    [####################] 22/17
   music    [####################] 11/11
   artikel  [####################] 27/27
   mint: requirementsMet=false mintOpen=false discord=true
 
 --> [1]Kayna menjalankan: Read Manga
-[1]Kayna       |09:55:43 | 20-10-2026| manga: 0/13 chapter belum completed
+[1]Kayna       |08:14:33 | 21-10-2026| manga: 0/13 chapter belum completed
 --> [1]Kayna menjalankan: Get Gift
-[1]Kayna       |09:55:43 | 20-10-2026| gift: 0/4 belum diterima
+[1]Kayna       |08:14:33 | 21-10-2026| gift: 0/4 belum diterima
 --> [1]Kayna menjalankan: Setup Profile
-[1]Kayna       |09:55:44 | 20-10-2026| profile: bio="https://x.com/kaynemelany" fav=yuki rewardAt=1791685763
-[1]Kayna       |09:55:44 | 20-10-2026| profile: bonus sudah diklaim, skip
+[1]Kayna       |08:14:34 | 21-10-2026| profile: bio="https://x.com/kaynemelany" fav=yuki rewardAt=1791685763
+[1]Kayna       |08:14:34 | 21-10-2026| profile: bonus sudah diklaim, skip
 --> [1]Kayna menjalankan: Bind Wallet
-[1]Kayna       |09:55:45 | 20-10-2026| wallet: sudah terikat GbMeCxvcxf... (solana)
+[1]Kayna       |08:14:34 | 21-10-2026| wallet: sudah terikat GbMeCxvcxf... (solana)
 
 == RINGKASAN ==
-- Kayna: daily=claimed | tasks OK 7/7 | misi klaim 0 (+0pt) | kuis benar 6 (+0pt) | watch 3/4 completed | musik 0 trek ~0s | artikel 0 dibaca | manga 0/13 completed | gift 0/4 diterima | profile - | wallet bound | mint req=false open=false
+- Kayna: daily=claimed | tasks OK 7/7 | misi klaim 0 (+0pt) | kuis benar 6 (+0pt) | watch 1/1 completed | musik 0 trek ~0s | artikel 0 dibaca | manga 0/13 completed | gift 0/4 diterima | profile - | wallet bound | mint req=false open=false
