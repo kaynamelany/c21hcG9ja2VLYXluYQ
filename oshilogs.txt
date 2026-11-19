@@ -12,34 +12,34 @@ mode AUTO: akun=1 menu=Claim Daily, Auto All Tasks, Verify Single Task, Watch An
 
 
 ===== [1/1] Kayna =====
-[1]Kayna       |08:06:56 | 18-11-2026| login OK @kaynemelany | score=3340 rank=2236
-[1]Kayna       |08:06:56 | 18-11-2026| serverTime=2026-11-18T08:06:56.000Z local=2026-11-18T08:06:56.445Z
+[1]Kayna       |08:15:31 | 19-11-2026| login OK @kaynemelany | score=3360 rank=2227
+[1]Kayna       |08:15:31 | 19-11-2026| serverTime=2026-11-19T08:15:31.000Z local=2026-11-19T08:15:31.977Z
 --> [1]Kayna menjalankan: Claim Daily
-[1]Kayna       |08:06:58 | 18-11-2026| daily: OK +10 poin score=3350
+[1]Kayna       |08:15:33 | 19-11-2026| daily: OK +10 poin score=3370
 --> [1]Kayna menjalankan: Auto All Tasks (1 pending)
-[1]Kayna       |08:06:59 | 18-11-2026| [1/1] f590ef11 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"f590ef11-d2d6-4143-967a-8a3e6e0c404a","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"212267665187629 | proof=https://x.com/kaynemelany/status/2122964392565118125
-[1]Kayna       |08:06:59 | 18-11-2026| mode auto: verify 1 task pertama (pakai --limit N untuk atur, atau jalan interaktif untuk pilih).
-[1]Kayna       |08:07:01 | 18-11-2026| [1/1] f590ef11 (reply) verify OK http=200 resp={"ok":true,"already":true,"points":10,"taskState":{"tasks":[{"id":"f590ef11-d2d6-4143-967a-8a3e6e0c404a","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"2122676651876290 | proof=https://x.com/kaynemelany/status/2122964236577429004
+[1]Kayna       |08:15:36 | 19-11-2026| [1/1] 06ac6e5b (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"06ac6e5b-1491-427f-bab1-75fd1484a01c","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"212304095311217 | proof=https://x.com/kaynemelany/status/2123328887403892941
+[1]Kayna       |08:15:36 | 19-11-2026| mode auto: verify 1 task pertama (pakai --limit N untuk atur, atau jalan interaktif untuk pilih).
+[1]Kayna       |08:15:37 | 19-11-2026| [1/1] 06ac6e5b (reply) verify OK http=200 resp={"ok":true,"already":true,"points":10,"taskState":{"tasks":[{"id":"06ac6e5b-1491-427f-bab1-75fd1484a01c","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"2123040953112178 | proof=https://x.com/kaynemelany/status/2123328841982675898
 --> [1]Kayna menjalankan: Watch Anime
-[1]Kayna       |08:07:01 | 18-11-2026| watch: semua video sudah completed
+[1]Kayna       |08:15:38 | 19-11-2026| watch: semua video sudah completed
 --> [1]Kayna menjalankan: Read Article
-[1]Kayna       |08:07:03 | 18-11-2026| news: 34/34 artikel selesai dibaca
-[1]Kayna       |08:07:03 | 18-11-2026| mint eligibility: {"userId":"1710987449961443328","wallet":{"state":"registered","ready":true},"youtube":{"url":"","status":"unsubmitted","revision":"","submittedAt":null,"reviewedAt":null,"note":"","checkedAt":null,"a
-[1]Kayna       |08:07:03 | 18-11-2026| news: semua artikel sudah dibaca
+[1]Kayna       |08:15:39 | 19-11-2026| news: 34/34 artikel selesai dibaca
+[1]Kayna       |08:15:40 | 19-11-2026| mint eligibility: {"userId":"1710987449961443328","wallet":{"state":"registered","ready":true},"youtube":{"url":"","status":"unsubmitted","revision":"","submittedAt":null,"reviewedAt":null,"note":"","checkedAt":null,"a
+[1]Kayna       |08:15:40 | 19-11-2026| news: semua artikel sudah dibaca
 --> [1]Kayna menjalankan: Quiz Anime
 --> [1]Kayna menjalankan: Music Missions (realtime, bisa lama!)
-[1]Kayna       |08:07:05 | 18-11-2026| music: kedua misi sudah tercapai, stop
-[1]Kayna       |08:07:06 | 18-11-2026| mission music-listens-10: sudah diklaim
-[1]Kayna       |08:07:06 | 18-11-2026| mission music-minutes-30: sudah diklaim
-[1]Kayna       |08:07:06 | 18-11-2026| mission anime-completed-3: sudah diklaim
+[1]Kayna       |08:15:42 | 19-11-2026| music: kedua misi sudah tercapai, stop
+[1]Kayna       |08:15:43 | 19-11-2026| mission music-listens-10: sudah diklaim
+[1]Kayna       |08:15:43 | 19-11-2026| mission music-minutes-30: sudah diklaim
+[1]Kayna       |08:15:43 | 19-11-2026| mission anime-completed-3: sudah diklaim
 --> [1]Kayna menjalankan: Claim Missions
-[1]Kayna       |08:07:06 | 18-11-2026| mission music-listens-10: sudah diklaim
-[1]Kayna       |08:07:06 | 18-11-2026| mission music-minutes-30: sudah diklaim
-[1]Kayna       |08:07:06 | 18-11-2026| mission anime-completed-3: sudah diklaim
+[1]Kayna       |08:15:43 | 19-11-2026| mission music-listens-10: sudah diklaim
+[1]Kayna       |08:15:43 | 19-11-2026| mission music-minutes-30: sudah diklaim
+[1]Kayna       |08:15:43 | 19-11-2026| mission anime-completed-3: sudah diklaim
 --> [1]Kayna menjalankan: Check Eligibility
 
 --- eligibility [1]Kayna ---
-  @kaynemelany | score=3340 rank=2236
+  @kaynemelany | score=3360 rank=2227
   tasks    [###############-----] 3/4
   mission  music-listens-10:      claimed
   mission  music-minutes-30:      claimed
@@ -51,17 +51,17 @@ mode AUTO: akun=1 menu=Claim Daily, Auto All Tasks, Verify Single Task, Watch An
   mint: requirementsMet=false mintOpen=false discord=true
 
 --> [1]Kayna menjalankan: Read Manga
-[1]Kayna       |08:07:10 | 18-11-2026| manga: 0/13 chapter belum completed
+[1]Kayna       |08:15:48 | 19-11-2026| manga: 0/13 chapter belum completed
 --> [1]Kayna menjalankan: Get Gift
-[1]Kayna       |08:07:12 | 18-11-2026| gift: 3/12 belum diterima
-[1]Kayna       |08:07:12 | 18-11-2026| gift room-oshii-birthday-cake-20261202: GAGAL http=403 resp={"error":"OSHI NFTを持っている家族だけが受け取れるプレゼントです。"}
-[1]Kayna       |08:07:15 | 18-11-2026| gift room-hologram-projector-20261102: GAGAL http=403 resp={"error":"OSHI NFTを持っている家族だけが受け取れるプレゼントです。"}
-[1]Kayna       |08:07:18 | 18-11-2026| gift room-oshii-bottle-20261102: GAGAL http=403 resp={"error":"OSHI NFTを持っている家族だけが受け取れるプレゼントです。"}
+[1]Kayna       |08:15:50 | 19-11-2026| gift: 3/12 belum diterima
+[1]Kayna       |08:15:50 | 19-11-2026| gift room-oshii-birthday-cake-20261202: GAGAL http=403 resp={"error":"OSHI NFTを持っている家族だけが受け取れるプレゼントです。"}
+[1]Kayna       |08:15:53 | 19-11-2026| gift room-hologram-projector-20261102: GAGAL http=403 resp={"error":"OSHI NFTを持っている家族だけが受け取れるプレゼントです。"}
+[1]Kayna       |08:15:56 | 19-11-2026| gift room-oshii-bottle-20261102: GAGAL http=403 resp={"error":"OSHI NFTを持っている家族だけが受け取れるプレゼントです。"}
 --> [1]Kayna menjalankan: Setup Profile
-[1]Kayna       |08:07:20 | 18-11-2026| profile: bio="https://x.com/kaynemelany" fav=yuki rewardAt=1791685763
-[1]Kayna       |08:07:20 | 18-11-2026| profile: bonus sudah diklaim, skip
+[1]Kayna       |08:15:59 | 19-11-2026| profile: bio="https://x.com/kaynemelany" fav=yuki rewardAt=1791685763
+[1]Kayna       |08:15:59 | 19-11-2026| profile: bonus sudah diklaim, skip
 --> [1]Kayna menjalankan: Bind Wallet
-[1]Kayna       |08:07:20 | 18-11-2026| wallet: sudah terikat GbMeCxvcxf... (solana)
+[1]Kayna       |08:15:59 | 19-11-2026| wallet: sudah terikat GbMeCxvcxf... (solana)
 
 == RINGKASAN ==
 - Kayna: daily=claimed | tasks OK 2/2 | misi klaim 0 (+0pt) | kuis benar 0 (+0pt) | watch 0/0 completed | musik 0 trek ~0s | artikel 0 dibaca | manga 0/13 completed | gift 0/12 diterima | profile - | wallet bound | mint req=false open=false
