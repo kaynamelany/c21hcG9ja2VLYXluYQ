@@ -12,53 +12,56 @@ mode AUTO: akun=1 menu=Claim Daily, Auto All Tasks, Verify Single Task, Watch An
 
 
 ===== [1/1] Kayna =====
-[1]Kayna       |08:28:57 | 23-11-2026| login OK @kaynemelany | score=3470 rank=2161
-[1]Kayna       |08:28:57 | 23-11-2026| serverTime=2026-11-23T08:28:57.000Z local=2026-11-23T08:28:57.709Z
+[1]Kayna       |10:36:28 | 24-11-2026| login OK @kaynemelany | score=3510 rank=2127
+[1]Kayna       |10:36:28 | 24-11-2026| serverTime=2026-11-24T10:36:28.000Z local=2026-11-24T10:36:28.339Z
 --> [1]Kayna menjalankan: Claim Daily
-[1]Kayna       |08:28:59 | 23-11-2026| daily: OK +10 poin score=3480
---> [1]Kayna menjalankan: Auto All Tasks (3 pending)
-[1]Kayna       |08:29:01 | 23-11-2026| [1/3] eae56ca6 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"eae56ca6-b809-46e0-af35-8a249af81837","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"212473237683641 | proof=https://x.com/kaynemelany/status/2124781923405864474
-[1]Kayna       |08:29:01 | 23-11-2026| delay 10s...
-[1]Kayna       |08:29:13 | 23-11-2026| [2/3] 733b22c0 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"eae56ca6-b809-46e0-af35-8a249af81837","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"212473237683641 | proof=https://x.com/kaynemelany/status/2124781797903526210
-[1]Kayna       |08:29:13 | 23-11-2026| delay 10s...
-[1]Kayna       |08:29:25 | 23-11-2026| [3/3] ddf40dac (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"eae56ca6-b809-46e0-af35-8a249af81837","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"212473237683641 | proof=https://x.com/kaynemelany/status/2124781770053219506
-[1]Kayna       |08:29:25 | 23-11-2026| mode auto: verify 1 task pertama (pakai --limit N untuk atur, atau jalan interaktif untuk pilih).
-[1]Kayna       |08:29:29 | 23-11-2026| [1/1] eae56ca6 (reply) verify OK http=200 resp={"ok":true,"already":true,"points":10,"taskState":{"tasks":[{"id":"eae56ca6-b809-46e0-af35-8a249af81837","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"2124732376836411 | proof=https://x.com/kaynemelany/status/2124781862525864606
+[1]Kayna       |10:36:30 | 24-11-2026| daily: OK +10 poin score=3520
+--> [1]Kayna menjalankan: Auto All Tasks (1 pending)
+[1]Kayna       |10:36:33 | 24-11-2026| [1/1] 88b240aa (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"88b240aa-fcca-478e-802b-b5431f9910c3","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"212485554787911 | proof=https://x.com/kaynemelany/status/2125176303328716780
+[1]Kayna       |10:36:33 | 24-11-2026| mode auto: verify 1 task pertama (pakai --limit N untuk atur, atau jalan interaktif untuk pilih).
+[1]Kayna       |10:36:35 | 24-11-2026| [1/1] 88b240aa (reply) verify OK http=200 resp={"ok":true,"already":true,"points":10,"taskState":{"tasks":[{"id":"88b240aa-fcca-478e-802b-b5431f9910c3","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"2124855547879113 | proof=https://x.com/kaynemelany/status/2125176469274216499
 --> [1]Kayna menjalankan: Watch Anime
-[1]Kayna       |08:29:30 | 23-11-2026| watch: semua video sudah completed
+[1]Kayna       |10:36:35 | 24-11-2026| watch: semua video sudah completed
 --> [1]Kayna menjalankan: Read Article
-[1]Kayna       |08:29:33 | 23-11-2026| news ERROR: news-progress http 503: {"error":"ただいま混み合っています。少し待ってからもう一度お試しください。"}
+[1]Kayna       |10:36:37 | 24-11-2026| news: 34/34 artikel selesai dibaca
+[1]Kayna       |10:36:38 | 24-11-2026| mint eligibility: {"userId":"1710987449961443328","wallet":{"state":"registered","ready":true},"youtube":{"url":"","status":"unsubmitted","revision":"","submittedAt":null,"reviewedAt":null,"note":"","checkedAt":null,"a
+[1]Kayna       |10:36:38 | 24-11-2026| news: semua artikel sudah dibaca
 --> [1]Kayna menjalankan: Quiz Anime
-[1]Kayna       |08:29:35 | 23-11-2026| quiz ERROR: quizzes http 503: {"error":"ただいま混み合っています。少し待ってからもう一度お試しください。"}
 --> [1]Kayna menjalankan: Music Missions (realtime, bisa lama!)
-[1]Kayna       |08:29:36 | 23-11-2026| music ERROR: music-progress http 503: {"error":"ただいま混み合っています。少し待ってからもう一度お試しください。"}
-[1]Kayna       |08:29:37 | 23-11-2026| missions ERROR: missions http 503: {"error":"ただいま混み合っています。少し待ってからもう一度お試しください。"}
+[1]Kayna       |10:36:39 | 24-11-2026| music: kedua misi sudah tercapai, stop
+[1]Kayna       |10:36:40 | 24-11-2026| mission music-listens-10: sudah diklaim
+[1]Kayna       |10:36:40 | 24-11-2026| mission music-minutes-30: sudah diklaim
+[1]Kayna       |10:36:40 | 24-11-2026| mission anime-completed-3: sudah diklaim
 --> [1]Kayna menjalankan: Claim Missions
-[1]Kayna       |08:29:37 | 23-11-2026| missions ERROR: missions http 503: {"error":"ただいま混み合っています。少し待ってからもう一度お試しください。"}
+[1]Kayna       |10:36:40 | 24-11-2026| mission music-listens-10: sudah diklaim
+[1]Kayna       |10:36:40 | 24-11-2026| mission music-minutes-30: sudah diklaim
+[1]Kayna       |10:36:40 | 24-11-2026| mission anime-completed-3: sudah diklaim
 --> [1]Kayna menjalankan: Check Eligibility
 
 --- eligibility [1]Kayna ---
-  @kaynemelany | score=3470 rank=2161
-  tasks    [#############-------] 5/8
-  missions: ERROR missions http 503: {"error":"ただいま混み合っています。少し待ってからもう一度お試しください。"}
+  @kaynemelany | score=3510 rank=2127
+  tasks    [#################---] 6/7
+  mission  music-listens-10:      claimed
+  mission  music-minutes-30:      claimed
+  mission  anime-completed-3:     claimed
   quiz     [?]
   watch    [####################] 22/17
-  music: ERROR music-progress http 503: {"error":"ただいま混み合っています。少し待ってからもう一度お試しください。"}
+  music    [#################---] 11/13
   artikel  [####################] 34/34
   mint: requirementsMet=false mintOpen=false discord=true
 
 --> [1]Kayna menjalankan: Read Manga
-[1]Kayna       |08:29:41 | 23-11-2026| manga ERROR: manga-history http 503: {"error":"ただいま混み合っています。少し待ってからもう一度お試しください。"}
+[1]Kayna       |10:36:43 | 24-11-2026| manga: 0/13 chapter belum completed
 --> [1]Kayna menjalankan: Get Gift
-[1]Kayna       |08:29:43 | 23-11-2026| gift: 3/12 belum diterima
-[1]Kayna       |08:29:44 | 23-11-2026| gift room-oshii-birthday-cake-20261202: GAGAL http=403 resp={"error":"OSHI NFTを持っている家族だけが受け取れるプレゼントです。"}
-[1]Kayna       |08:29:46 | 23-11-2026| gift room-hologram-projector-20261102: GAGAL http=403 resp={"error":"OSHI NFTを持っている家族だけが受け取れるプレゼントです。"}
-[1]Kayna       |08:29:50 | 23-11-2026| gift room-oshii-bottle-20261102: GAGAL http=403 resp={"error":"OSHI NFTを持っている家族だけが受け取れるプレゼントです。"}
+[1]Kayna       |10:36:45 | 24-11-2026| gift: 3/12 belum diterima
+[1]Kayna       |10:36:46 | 24-11-2026| gift room-oshii-birthday-cake-20261202: GAGAL http=403 resp={"error":"OSHI NFTを持っている家族だけが受け取れるプレゼントです。"}
+[1]Kayna       |10:36:49 | 24-11-2026| gift room-hologram-projector-20261102: GAGAL http=403 resp={"error":"OSHI NFTを持っている家族だけが受け取れるプレゼントです。"}
+[1]Kayna       |10:36:52 | 24-11-2026| gift room-oshii-bottle-20261102: GAGAL http=403 resp={"error":"OSHI NFTを持っている家族だけが受け取れるプレゼントです。"}
 --> [1]Kayna menjalankan: Setup Profile
-[1]Kayna       |08:29:53 | 23-11-2026| profile: bio="https://x.com/kaynemelany" fav=yuki rewardAt=1791685763
-[1]Kayna       |08:29:53 | 23-11-2026| profile: bonus sudah diklaim, skip
+[1]Kayna       |10:36:55 | 24-11-2026| profile: bio="https://x.com/kaynemelany" fav=yuki rewardAt=1791685763
+[1]Kayna       |10:36:55 | 24-11-2026| profile: bonus sudah diklaim, skip
 --> [1]Kayna menjalankan: Bind Wallet
-[1]Kayna       |08:29:53 | 23-11-2026| wallet: sudah terikat GbMeCxvcxf... (solana)
+[1]Kayna       |10:36:56 | 24-11-2026| wallet: sudah terikat GbMeCxvcxf... (solana)
 
 == RINGKASAN ==
-- Kayna: daily=claimed | tasks OK 4/4 | misi klaim 0 (+0pt) | kuis benar 0 (+0pt) | watch 0/0 completed | musik 0 trek ~0s | artikel 0 dibaca | manga 0/0 completed | gift 0/12 diterima | profile - | wallet bound | mint req=false open=false
+- Kayna: daily=claimed | tasks OK 2/2 | misi klaim 0 (+0pt) | kuis benar 0 (+0pt) | watch 0/0 completed | musik 0 trek ~0s | artikel 0 dibaca | manga 0/13 completed | gift 0/12 diterima | profile - | wallet bound | mint req=false open=false
